@@ -43,6 +43,7 @@ body {
   border-radius: 50%;
   position: relative;
   background-color: #ff7979;
+  transition: transform 0.5s linear;
 }
 
 .circle .btn {
